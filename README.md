@@ -8,7 +8,7 @@ The area of the square is width^2 = (2r)^2 = 4r^2
 divide the area of the circle, by the area of the square  
 πr^2 / 4r^2 = π/4
 
-The points inside the square and the points inside the circle are proportional to the width.
+The points inside the square and the points inside the circle are proportional to the area.
 
 then you can find Pi
 
